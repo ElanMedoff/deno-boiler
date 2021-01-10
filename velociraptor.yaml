@@ -1,0 +1,14 @@
+allow:
+#   - env
+#   - hrtime
+#   - net
+#   - plugin
+#   - read
+#   - run
+#   - write
+
+scripts:
+  start:
+    cmd: deno run --unstable index.ts
+    imap: import_map.json
+    # watch: true
