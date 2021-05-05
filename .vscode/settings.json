@@ -1,11 +1,7 @@
 {
   "deno.enable": true,
   "deno.unstable": true,
-  "deno.import_map": "./import_map.json",
-  "cSpell.words": [
-    "hrtime",
-    "imap"
-  ],
+  "deno.importMap": "./import_map.json",
   "[typescript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
   },

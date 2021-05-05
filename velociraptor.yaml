@@ -9,6 +9,6 @@ allow:
 
 scripts:
   start:
-    cmd: deno run --unstable index.ts
+    cmd: deno run index.ts
     imap: import_map.json
     # watch: true
