@@ -8,5 +8,10 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
   },
-  "deno.lint": true
+  "deno.lint": true,
+  "cSpell.words": [
+    "hrtime",
+    "imap",
+    "velociraptor"
+  ]
 }

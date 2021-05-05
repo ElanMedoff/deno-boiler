@@ -6,6 +6,7 @@ allow:
 #   - read
 #   - run
 #   - write
+#   - all
 
 scripts:
   start:
