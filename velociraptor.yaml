@@ -10,6 +10,6 @@ allow:
 
 scripts:
   start:
-    cmd: deno run --prompt index.ts
+    cmd: deno run --prompt mod.ts
     imap: import_map.json
     # watch: true
